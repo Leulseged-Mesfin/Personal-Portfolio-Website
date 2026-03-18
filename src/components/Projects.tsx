@@ -15,7 +15,6 @@ const projects = [
     description:
       "Built a Full Stack Flutter inventory management app using Flutter and Django DRF, improving performance and Integrated real-time product, order, stock and other data with RESTful APIs while delivering a smooth and responsive user experience.",
     tech: ["Flutter", "Dart", "Bloc", "Django DRF", "MySQL", "CPanel", "Git"],
-    github: "#",
     live: "https://drive.google.com/drive/folders/1ZcX6rJIJ_zHXntNsyVSDXSHZHy3AiwNN?usp=drive_link",
     highlight: "Mobile",
   },
@@ -24,7 +23,6 @@ const projects = [
     description:
       "Built a Full Stack Flutter bus ticket app from multiple Bus companies using Flutter and Django DRF, improving performance and Integrated real-time ticket, route, and payment data with RESTful APIs while delivering a smooth and responsive user experience.",
     tech: ["Flutter", "Dart", "Django DRF", "PostgreSQL", "CPanel", "Git"],
-    github: "#",
     live: "https://drive.google.com/drive/folders/1gR0i362L6Vz_0Kq-EFNBFSW6cW0lriEA?usp=drive_link",
     highlight: "Mobile",
   },
