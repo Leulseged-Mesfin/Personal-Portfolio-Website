@@ -34,6 +34,21 @@ const projects = [
     github: "https://github.com",
     highlight: "Backend",
   },
+  {
+    title: "Cloud Infrastructure & Server Deployment",
+    description:
+      "Deployed and managed scalable backend environments across both VPS and cloud hosting platforms, utilizing Docker containers, Dokploy, and cPanel architectures. Configured secure PostgreSQL database connections, automated reverse proxy routing, and optimized multi-tenant environment variables for production-grade reliability.",
+    tech: [
+      "Docker",
+      "Dokploy",
+      "cPanel",
+      "PostgreSQL",
+      "VPS Hosting",
+      "Linux / SSH",
+    ],
+    live: "#", // Link to your GitHub profile or portfolio deployment section
+    highlight: "DevOps",
+  },
 ];
 export function Projects() {
   return (

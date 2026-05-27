@@ -27,6 +27,18 @@ const experiences = [
       "Responsive UI",
     ],
   },
+  {
+    period: "2024 - Present",
+    company: "Po'o Tecnologies Software Development Agency",
+    role: "DevOps Engineer",
+    description:
+      "Engineered production-ready infrastructure and containerized environments for inventory and garage management platforms, bridging the gap between backend development and scalable cloud deployment.",
+    achievements: [
+      "Containerized Django DRF and PostgreSQL applications using Docker, eliminating environment drift between development and live production servers",
+      "Streamlined server deployments across VPS and cPanel hosting platforms, implementing secure multi-tenant routing and isolated environment configurations",
+      "Optimized server resource consumption and storage overhead by implementing automated backend asset processing and asset compression pipelines",
+    ],
+  },
 ];
 export function Experience() {
   return (

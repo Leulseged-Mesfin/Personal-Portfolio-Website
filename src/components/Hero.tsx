@@ -27,7 +27,7 @@ export function Hero() {
             Leulseged Mesfin
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-400 mb-8 font-light">
-            Backend & Mobile Developer
+            Backend & Mobile Developer | DevOps Engineer
           </h2>
         </motion.div>
 
@@ -49,8 +49,10 @@ export function Hero() {
         >
           <div>
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              I build scalable backend systems and beautiful mobile experiences.
-              Specializing in API design, and Flutter development.
+              I build scalable backends, seamless mobile apps, and the DevOps
+              pipelines that keep them running. Specializing in API design,
+              Flutter development, and automated cloud deployment to take ideas
+              from code to production.
             </p>
             {/* <p className="text-gray-400 leading-relaxed">
               Currently crafting high-performance systems that serve millions of
